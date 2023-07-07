@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Tammudu+2&family=Rubik:wght@300&family=Ubuntu:wght@300&display=swap');
+$font-baloo: 'Baloo Tammudu 2', cursive;
+$font-ubuntu: 'Ubuntu', sans-serif;
+
+
+.font-baloo{
+    font-family: $font-baloo;
+}
+.font-ubuntu{
+    font-family: $font-ubuntu;
+}
